@@ -1,15 +1,16 @@
 {
   "files": {
     "main.css": "/alexzugaj-finalreactapp-2graphs/static/css/main.e6c13ad2.css",
-    "main.js": "/alexzugaj-finalreactapp-2graphs/static/js/main.de1aa4ef.js",
+    "main.js": "/alexzugaj-finalreactapp-2graphs/static/js/main.c76969e1.js",
     "static/js/453.7bc109c0.chunk.js": "/alexzugaj-finalreactapp-2graphs/static/js/453.7bc109c0.chunk.js",
+    "static/media/SampleDataset.csv": "/alexzugaj-finalreactapp-2graphs/static/media/SampleDataset.1a13c1758e940941af06.csv",
     "index.html": "/alexzugaj-finalreactapp-2graphs/index.html",
     "main.e6c13ad2.css.map": "/alexzugaj-finalreactapp-2graphs/static/css/main.e6c13ad2.css.map",
-    "main.de1aa4ef.js.map": "/alexzugaj-finalreactapp-2graphs/static/js/main.de1aa4ef.js.map",
+    "main.c76969e1.js.map": "/alexzugaj-finalreactapp-2graphs/static/js/main.c76969e1.js.map",
     "453.7bc109c0.chunk.js.map": "/alexzugaj-finalreactapp-2graphs/static/js/453.7bc109c0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.de1aa4ef.js"
+    "static/js/main.c76969e1.js"
   ]
 }
